@@ -9,14 +9,12 @@
 </head>
 
 <body>
-    <form action="..." method="post">
+    <form action="./login.php?action=login" method="post">
         <label>UserName</label>
         <input type="text" name="ten"></br>
-
         <label>PassWord</label>
         <input type="password" name="password"></br>
-        <input type="sunmit" name="Login">
-
+        <input type="submit" name="Login">
     </form>
 </body>
 
