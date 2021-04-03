@@ -12,8 +12,10 @@
     <form action="..." method="post">
         <label>UserName</label>
         <input type="text" name="ten"></br>
+
         <label>PassWord</label>
         <input type="password" name="password"></br>
+        <input type="sunmit" name="Login">
 
     </form>
 </body>
